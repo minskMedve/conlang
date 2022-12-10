@@ -47,9 +47,17 @@
 |사이|si<br>사이로|sí<br>사이에서|sity<br>사이|
 |근처|nech<br>근처로|necha<br>근처에서|nechty<br>근처|
 |방향|tachy<br>방향으로|tachye<br>방향에서|tachyty<br>방향|
-|너머|chno<br>너머로|chnë<br>너머에서|chnoty<br>너머쪽|
+|너머|chno<br>너머로|chnë<br>너머에서|chnoty<br>너머 쪽|
+
+그리고, 또는 등과 같은 등위 접속 후치사는 원래 명사에 와야 할 격이 그대로 후치사에 붙는다.
+||주격|속격|여격|대격|처격|조격|호격|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|그리고|we|wes|wesce|we|wé|wel|weca|
+|또는|sta|stas|stasce|sta|stá|stal|staca|
 
 이 밖의 후치사들은 하나의 격만을 취한다.
-||격|형태|파생 명사|
-|-|:-:|:-:|:-:|
-||
+||격|형태|관련 명사|
+|-|:-:|:-:|:-|
+|때문에|조격|tasla|tas: 원인|
+
+
