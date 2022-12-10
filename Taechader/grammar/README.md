@@ -18,7 +18,7 @@
 |여격|-(A)scE|nèt**sce**|acg**yesce**|nazs**asce**|metr**asce**|donj**esce**|
 |대격|-|nèt|acg**y**|nazs|metr**a**|donj**e**|
 |처격|-A|nèt**a**|acg**ye**|nazs**a**|metr**á**|donj**é**|
-|조격|-(A)l|nèt**al**|acg**yel**|nazs**al**|metr**al**|donj**el**|
+|조격|-(A)l(A)|nèt**la**|acg**yla**|nazs**la**|metr**al**|donj**el**|
 
 조사는 대체로 처격이 붙으면 정적인 장소나 동적인 시작점, 대격이 붙으면 동적인 목표를 의미한다.
 
