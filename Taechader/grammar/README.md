@@ -26,10 +26,12 @@
 |주격|-E|nèt**e**|nazs**e**|acg**ye**|metr**ae**|donj**é**|
 |속격|-(A)s|nèt**s**|nazs**as**|acg**yes**|metr**as**|donj**es**|
 |여격|-(A)scE|nèt**sce**|nazs**asce**|acg**yesce**|metr**asce**|donj**esce**|
-|대격|-|nèt|nazs|acg**y**|metr**a**|donj**e**|
+|대격|-<br>-rá*|nèt<br>nèt**rá**|nazs<br>nazs**rá**|acg**y**<br>acg**yrá**|metr**a**<br>metr**ará**|donj**e**<br>donje**rá**|
 |처격|-A|nèt**a**|nazs**a**|acg**ye**|metr**á**|donj**é**|
 |조격|-(A)l(A)|nèt**la**|nazs**la**|acg**yel**|metr**al**|donj**el**|
 |호격|-cA|nèt**ca**|nazs**ca**|acg**yca**|metr**aca**|donj**eca**|
+
+\* 문어에서 부정관사가 붙지 않는 경우 *-rá*를 사용할 수 있음.
 
 ### 후치사
 
