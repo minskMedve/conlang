@@ -53,7 +53,7 @@
 ||주격|속격|여격|대격|처격|조격|호격|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |그리고|we|wes|wesce|we|wé|wel|weca|
-|또는|sta|stas|stasce|sta|stá|stal|staca|
+|또는|stae|stas|stasce|sta|stá|stal|staca|
 
 이 밖의 후치사들은 하나의 격만을 취한다.
 ||격|형태|관련 명사|
