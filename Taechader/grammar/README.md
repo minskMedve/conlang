@@ -26,7 +26,7 @@
 |주격|-E|nèt**e**|nazs**e**|acg**ye**|metr**ae**|donj**é**|
 |속격|-(A)s|nèt**s**|nazs**as**|acg**yes**|metr**as**|donj**es**|
 |여격|-(A)scE/scy|nèt**sce**|nazs**arcgy**|acg**yercgy**|metr**arcgy**|donj**ercgy**|
-|대격|-<br>-tu*|nèt<br>nèt**tu**|nazs<br>nazs**tu**|acg**y**<br>acg**du**|metr**a**<br>metr**adu**|donj**e**<br>donj**edu**|
+|대격|-<br>-tu*|nèt<br>nèt**tu**|nazs<br>nazs**tu**|acg**y**<br>acg**ydu**|metr**a**<br>metr**adu**|donj**e**<br>donj**edu**|
 |처격|-A|nèt**a**|nazs**a**|acg**ye**|metr**á**|donj**é**|
 |조격|-(A)l(A)|nèt**la**|nazs**la**|acg**yel**|metr**al**|donj**el**|
 |호격|-cA|nèt**ca**|nazs**ca**|acg**yca**|metr**aca**|donj**eca**|
